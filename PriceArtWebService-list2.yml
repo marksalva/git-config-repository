@@ -1,7 +1,7 @@
 #Application Config
 application:
-	listino: 2
-	sconto: 0
+  listino: 2
+  sconto: 0
 
 
 
