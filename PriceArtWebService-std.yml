@@ -1,7 +1,17 @@
 #Application Config
 application:
   listino: 1
-  sconto: 0
+  sconto: 5
+
+# ==============================================================
+# = Actuator Info
+# ==============================================================
+info:
+  assistenza:
+    nome: "Marco Salvadori"
+  nome:
+    nome-app: "Config-Server"
+    profilo: "GITHUB"
 
 
 
