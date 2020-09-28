@@ -117,7 +117,7 @@ management:
 # ==============================================================
 info:
   assistenza:
-    nome: "Nicola La Rocca"
+    nome: "Marco Salvadori"
   nome:
     nome-app: "Zuul Server - Versione JWT"    
             
