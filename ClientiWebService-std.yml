@@ -17,7 +17,7 @@ spring:
     initialization-mode: always
     password: 123_Stella
     platform: postgres
-    url: jdbc:postgresql://localhost:5433/AlphaShop
+    url: jdbc:postgresql://localhost:5433/Alphashop
     username: postgres
   jpa:
     hibernate:
@@ -89,10 +89,8 @@ management:
 # ==============================================================
 info:
   assistenza:
-    nome: "Nicola La Rocca"
-    mail: "nicola_larocca@xantrix.it"
-    telefono: "33412345678"
-    orario: "9-20"
+    nome: "Marco Salvadori"
+    mail: "marksal80@gmail.com"
   nome:
     nome-app: "Clienti Web Service"
     profilo: "std"
